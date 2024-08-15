@@ -6,6 +6,11 @@
 
 The primary objective of this project is to create a system that takes a chart image and a user query as input and returns accurate, context-aware responses about the chart's content. This README will guide you through the entire process, from setting up your environment to deploying the models.
 
+### 🌐 WEB DEMO: Experience ChartVision live by trying out the web demo on Hugging Face Spaces: 
+[ChartVision Web Demo](https://huggingface.co/spaces/lithi/ChartVision)
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
