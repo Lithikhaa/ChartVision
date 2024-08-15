@@ -8,7 +8,7 @@ The primary objective of this project is to create a system that takes a chart i
 
 ### 🌐 WEB DEMO: Experience ChartVision live by trying out the web demo on Hugging Face Spaces: 
 [ChartVision Web Demo](https://huggingface.co/spaces/lithi/ChartVision)
-### 📦 You can download the `.safetensors` models directly 
+### 📦 You can download the  model weights directly 
 [ChartVision Model Repository](https://huggingface.co/lithi/Chartvision).
 
 
@@ -20,12 +20,12 @@ The primary objective of this project is to create a system that takes a chart i
 
 Before you begin, ensure you have the following prerequisites installed on your system:
 
-- 🐍 Python 3.8+
-- 🖥️ PyTorch
-- 🤗 Transformers
-- 📦 safetensors
-- 🗃️ Pandas
-- 📸 OpenCV
+- 🐍 `Python 3.8+`
+- 🖥️ `PyTorch`
+- 🤗 `Transformers`
+- 📦 `safetensors`
+- 🗃️ `Pandas`
+- 📸 `OpenCV`
 - 📦 `numpy==1.25.2`
 - 🧩 `sentencepiece`
 - 🎛️ `gradio`
@@ -46,10 +46,14 @@ Before you begin, ensure you have the following prerequisites installed on your 
    Set up the necessary environment variables and paths to ensure smooth execution of the training and deployment processes.
 
 ## 📚 Datasets
+- 📊 **Training Dataset:** 28.3k samples
+- 🧪 **Testing Dataset:** 2.5k samples
+- 🔍 **Validation Dataset:** 1.92k samples
 
 The full ChartQA dataset (including the annotations) can be downloaded from Hugging Face: [Full ChartQA Dataset](https://huggingface.co/datasets/ahmed-masry/ChartQA)
 
-![image](https://github.com/user-attachments/assets/a36b14d2-7c97-435e-ab2d-42671ad0b21f)
+![image](https://github.com/user-attachments/assets/e14a9771-f0cd-47c5-a780-21cd11011200)
+
 
 ## 🔄 Workflow Overview
 
