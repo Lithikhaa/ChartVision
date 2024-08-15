@@ -8,6 +8,9 @@ The primary objective of this project is to create a system that takes a chart i
 
 ### 🌐 WEB DEMO: Experience ChartVision live by trying out the web demo on Hugging Face Spaces: 
 [ChartVision Web Demo](https://huggingface.co/spaces/lithi/ChartVision)
+### 📦 You can download the `.safetensors` models directly 
+[ChartVision Model Repository](https://huggingface.co/lithi/Chartvision).
+
 
 
 
@@ -23,6 +26,10 @@ Before you begin, ensure you have the following prerequisites installed on your 
 - 📦 safetensors
 - 🗃️ Pandas
 - 📸 OpenCV
+- 📦 `numpy==1.25.2`
+- 🧩 `sentencepiece`
+- 🎛️ `gradio`
+
 
 ### Installation
 
