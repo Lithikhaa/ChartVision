@@ -1,6 +1,0 @@
-- Python 3.8+
-- PyTorch
-- Transformers
-- safetensors
-- Pandas
-- OpenCV
