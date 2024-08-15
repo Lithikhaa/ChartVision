@@ -77,7 +77,7 @@ After training and combining the models, save the final model weights into `.saf
 
 #### 🌐 Deploying the Combined Model
 
-Deploy the combined model to process input chart images and respond to user queries. The models are stored on Hugging Face: [Chartvision Model Repository](https://huggingface.co/lithi/Chartvision) and deployed in Hugging Face Space: [ChartVision Space](https://huggingface.co/spaces/lithi/ChartVision).
+Deploy the combined model to process input chart images and respond to user queries. The safetensors models are stored on Hugging Face: [Chartvision Model Repository](https://huggingface.co/lithi/Chartvision) and deployed in Hugging Face Space: [ChartVision Space](https://huggingface.co/spaces/lithi/ChartVision).
 
 ### 🧪 Evaluation and Testing
 
