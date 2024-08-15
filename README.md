@@ -1,5 +1,3 @@
-# ChartVision
-
 
 ## DATASETS
 The full ChartQA dataset (including the annotations) can be downloaded from the following huggingface dataset[ Full ChartQA Dataset](https://huggingface.co/datasets/ahmed-masry/ChartQA)
