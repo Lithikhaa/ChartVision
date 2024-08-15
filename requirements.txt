@@ -1,0 +1,9 @@
+- Python 3.8+
+- PyTorch
+- Transformers
+- safetensors
+- Pandas
+- OpenCV
+- numpy==1.25.2
+- sentencepiece
+- gradio
